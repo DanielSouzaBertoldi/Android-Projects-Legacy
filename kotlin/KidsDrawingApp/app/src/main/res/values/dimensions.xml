@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dgSmallBrushDimen">10dp</dimen>
+    <dimen name="dgMediumBrushDimen">20dp</dimen>
+    <dimen name="dgLargeBrushDimen">30dp</dimen>
+</resources>

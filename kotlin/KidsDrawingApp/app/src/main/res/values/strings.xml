@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Kids Drawing App</string>
+    <string name="ib_brush_small">Small brush size</string>
+    <string name="ib_brush_medium">Medium brush size</string>
+    <string name="ib_brush_large">Large brush size</string>
+    <string name="brushImage">Brush Selection</string>
+    <string name="color_pallete">Color pallete</string>
+    <string name="background_image">Background image</string>
+    <string name="galleryImage">Gallery</string>
+    <string name="ib_undo">Undo previous line</string>
+    <string name="wait">Please wait...</string>
 </resources>
