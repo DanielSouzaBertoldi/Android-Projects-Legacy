@@ -1,8 +1,0 @@
-query UsersQuery {
-    users {
-        id
-        name
-        age
-        profession
-    }
-}
